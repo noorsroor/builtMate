@@ -322,7 +322,6 @@ section:nth-child(2) {
     align-items: center;
     justify-content: center;
     margin: 30px 100px;
-    margin-bottom: 40px;
     opacity: 0;
     transform: translateY(50px);
     animation: slideUp 2.5s ease-out forwards;
@@ -392,7 +391,6 @@ section:nth-child(3) {
     align-items: center;
     justify-content: center;
     margin: 30px 100px;
-    margin-bottom: 40px;
     opacity: 0;
     transform: translateY(50px);
     animation: slideUp 2.5s ease-out forwards;
@@ -494,7 +492,7 @@ section:nth-child(4) {
     align-items: center;
     justify-content: center;
     margin: 30px 100px;
-    margin-bottom: 40px;
+    margin-top: 0px;
     opacity: 0;
     transform: translateY(50px);
     animation: slideUp 2.5s ease-out forwards;
@@ -595,7 +593,7 @@ section:nth-child(5) {
     align-items: center;
     justify-content: center;
     margin: 30px 100px;
-    margin-bottom: 40px;
+    margin-top: 0px;
     opacity: 0;
     transform: translateY(50px);
     animation: slideUp 2.5s ease-out forwards;

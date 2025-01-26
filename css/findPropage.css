@@ -340,7 +340,7 @@ section:nth-child(2){
   
   .location-btn {
     border: none;
-    border-radius: 20px;
+    border-radius: 12px;
     padding: 8px 16px;
     font-size: 14px;
     font-weight: bold;
